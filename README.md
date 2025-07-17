@@ -121,6 +121,7 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
       <img src="https://skillicons.dev/icons?i=python,sklearn" height="40"/>
       <img src="https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
     </td>
   </tr>
   <tr>
