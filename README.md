@@ -54,9 +54,11 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 <h3 align="left">🏆 Academic Excellence</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CGPA-9.59%2F10.00-blueviolet?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Top%20Performer%20%F0%9F%8F%86-Semester%204%2F8-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-9.59%2F10.00-eecbd6?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Top%20Performer%20%F0%9F%8F%86-Semester%204%2F8-dec3c3?style=for-the-badge"/>
 </p>
+
+
 
 <p align="left">
   <i>Pursuing B.Tech in AI & ML @ Mody University, Rajasthan (2023–2027)</i>
@@ -234,12 +236,12 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 
 ### 🧘‍♀️ Hobbies & Interests
 
-- Designing & Digital Aesthetics  
-- Reading about AI Ethics and Women in Tech
-- Mental wellness, Yoga, Meditation 
-- Channeling main character energy through backhands & butterfly strokes.
-- A poet with a plot twist obsession and a growth mindset. 
-- I code like Walter White and vibe like Emily in Paris!!
+- 🎨 Designing & digital aesthetics  
+- 📚 Reading about AI ethics and women in tech  
+- 🧘 Mental wellness, yoga, meditation  
+- 🏸 Channeling main character energy through backhands & butterfly strokes  
+- ✍️ A poet with a plot twist obsession and a growth mindset  
+- 💻 I code like Walter White and vibe like Emily in Paris!!
 
 ---
 
