@@ -1,35 +1,53 @@
-<h3 align="center">Hey 👋 I'm Riya</h3>
+<h1 align="center">Hey there 👋 I'm Riya!</h1>
+<p align="center">
+💻 CS Undergrad | 🧠 AI/ML Explorer | 🌏 Open Source Core Team | ✨ Coding Educator
+</p>
 
 <p align="center">
-  CS Undergrad • Open Source Enthusiast • AI Explorer • Coding Educator
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F779A1&center=true&vCenter=true&width=435&lines=Techie+by+brain%2C+creative+by+heart.;Building+real-time+AI+chatbots.;Loving+DSA%2C+Open+Source%2C+and+Java.;Let's+code+cool+things+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 I'm a CS undergrad from India who loves building tech that makes life better.
-- 🧠 I’m currently diving deep into **real-time NLP, recommender systems, and cloud deployments**.
-- 💬 I tutor students globally in Python, Java, and DSA — breaking complex into chill.
-- 💖 Passionate about **open source**, hackathons, and community-led learning.
+### 🧠 About Me
+- 🔭 Currently working on: **Real-time NLP Chatbot + Career Recommender**
+- ⚡ I love building: *Tech that’s smart, social, and scalable*
+- 💬 I teach students globally in **Python, Java, and DSA**
+- 🤝 Contributor @ [Nexfellow](https://nexfellow.com) | Core Team @ Open Source Connect India
+- 🎯 2025 Goals: Win hackathons, ship full-stack ML apps, and vibe with cool devs
 
 ---
 
-### 🔧 Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,figma" />
+### 🔧 Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,figma" />
+</p>
 
 ---
 
-### 🌱 Ongoing
-- 💬 Building a **real-time chatbot** using NLP, Transformers, and cloud
-- 🌐 Working on **career recommendation AI project** with frontend, backend & ML
-- 🌟 Active member of **Open Source Connect India** core team & contributor @ Nexfellow
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyasirohi&show_icons=true&theme=radical" alt="Riya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasirohi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyasirohi&theme=radical&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-> *“Code what matters. Share what helps. Learn what excites.”*
+### 🚀 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+> *"Keep it real, keep it readable, and keep building 🤙"*
+
