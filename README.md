@@ -44,7 +44,6 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 - 🧠 Aspiring AI/ML Engineer with a passion for real-world problem solving
 - 🌍 Open-source contributor & core team member @ Open Source Connect India
 - 🌟 SheFi Scholar (Season 14, 2025) | Amazon ML Summer Mentee @ Girls Leading Tech
-- 👩‍🏫 Global coding mentor for Python, Java and Mathematics(100+ sessions completed!)
 - 🔥 Into full-stack ML apps, MLOps tools, and clean scalable architectures
 - 🤝 Always open to cool collaborations, impactful ideas & hackathon chaos
 
@@ -121,7 +120,7 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
       <img src="https://skillicons.dev/icons?i=python,sklearn" height="40"/>
       <img src="https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -215,23 +214,23 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 ### 🌟 Achievements
 
 - **SheFi Scholar – Cohort 14 (Full Scholarship)**
-- **Open Source Contributor & Core Team Member** – Nexfellow & Open Source Connect India
-- **Mentee** - Ananya Atlassian Program collaborated with Google Serve(GSERVE) 2025
-- **Amazon ML Summer Mentee** – Girls Leading Tech 2025
 - **Smart India Hackathon** (Internal) Runner-Up
 - **DROID 7.0 Mock Recruitment Winner**
 - **DROID 7.0 Entrepreneur's Point, Tech Exhibition Runner Up**
-- **Executive Member** – Rewriting the Code, SheCodes, Women Techmakers, Google Developer Club
 
 ---
 
 ### 🌟 Co-Curricular & Extracurricular
 
-- Campus Ambassador – GirlScript Summer of Code 2025
-- Organizing Committee – Utkasrsh & Droid 7.0 Tech Fest
-- Global Coding Tutor – Teaching Python, Java, and Math to students across India, US, and Europe through personalized 1:1 sessions
-- Executive Member – Utkarsh CSI, Penumbra, Picturesque, GDSC, Hoofers
-- Attendee – Google Cloud Day Jaipur, Microsoft Campus Visit Gurgaon
+- **Open Source Contributor & Core Team Member** – Nexfellow & Open Source Connect India
+- **Mentee - Ananya Atlassian Program collaborated with Google Serve(GSERVE) 2025**
+- **Amazon ML Summer Mentee** – Girls Leading Tech 2025
+- **Campus Ambassador** – GirlScript Summer of Code 2025
+- **Organizing Committee** – Utkasrsh & Droid 7.0 Tech Fest
+- **Online Coding Tutor** – Teaching Python, Java, and Math to students across India, US, and Europe through personalized 1:1 sessions
+- **Executive Member** – Rewriting the Code, SheCodes, Women Techmakers, Google Developer Club
+- **Executive Member** – Utkarsh CSI, Penumbra, Picturesque, GDSC, Hoofers
+- **Attendee** – Google Cloud Day Jaipur, Microsoft Campus Visit Gurgaon
 
 ---
 
@@ -240,7 +239,7 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 - 🎨 Designing & digital aesthetics  
 - 📚 Reading about AI ethics and women in tech  
 - 🧘 Mental wellness, yoga, meditation  
-- 🏸 Channeling main character energy through backhands & butterfly strokes  
+- 🏸 Love to swim and play badminton to release stress
 - ✍️ A poet with a plot twist obsession and a growth mindset  
 - 💻 I code like Walter White and vibe like Emily in Paris!!
 
