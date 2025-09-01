@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educator 
+Software Developer · AI/ML Enthusiast  · Coding Educator 
 </p>
 
 
@@ -30,8 +30,8 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
   <a href="https://leetcode.com/u/riyasirohi7/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.naukri.com/code360/profile/01de1d3a-1136-46b2-961a-20c30979cc71" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/Coding Ninjas-111111?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/user/riyasirohi/" style="text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/geeksforgeeks-111111?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
@@ -42,8 +42,6 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 
 - 👩🏻‍🎓 CS undergrad specializing in AI & Machine Learning (Mody University)
 - 🧠 Aspiring AI/ML Engineer with a passion for real-world problem solving
-- 🌍 Open-source contributor & core team member @ Open Source Connect India
-- 🌟 SheFi Scholar (Season 14, 2025) | Amazon ML Summer Mentee @ Girls Leading Tech
 - 🔥 Into full-stack ML apps, MLOps tools, and clean scalable architectures
 - 🤝 Always open to cool collaborations, impactful ideas & hackathon chaos
 
@@ -170,36 +168,6 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasirohi25&layout=compact&theme=radical" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyasirohi&theme=radical&no-bg=true&no-frame=true" />
-</p>
-
----
-### 📌 Featured Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/riyasirohi25/Sink-or-Survive-Watson-Knows-Who-Lives">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyasirohi25&repo=Sink-or-Survive-Watson-Knows-Who-Lives&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/riyasirohi25/expense-fraud-detector">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyasirohi25&repo=expense-fraud-detector&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-</div>
-
 
 ---
 
@@ -213,6 +181,7 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 
 ### 🌟 Achievements
 
+- **Semester Topper (CGPA: 9.92/10)**
 - **SheFi Scholar – Cohort 14 (Full Scholarship)**
 - **Smart India Hackathon** (Internal) Runner-Up
 - **DROID 7.0 Mock Recruitment Winner**
@@ -220,30 +189,6 @@ Software Developer · AI/ML Enthusiast · Open Source Contributor · Coding Educ
 
 ---
 
-### 🌟 Co-Curricular & Extracurricular
-
-- **Open Source Contributor & Core Team Member** – Nexfellow & Open Source Connect India
-- **Mentee - Ananya Atlassian Program collaborated with Google Serve(GSERVE) 2025**
-- **Amazon ML Summer Mentee** – Girls Leading Tech 2025
-- **Campus Ambassador** – GirlScript Summer of Code 2025
-- **Organizing Committee** – Utkasrsh & Droid 7.0 Tech Fest
-- **Online Coding Tutor** – Teaching Python, Java, and Math to students across India, US, and Europe through personalized 1:1 sessions
-- **Executive Member** – Rewriting the Code, SheCodes, Women Techmakers, Google Developer Club
-- **Executive Member** – Utkarsh CSI, Penumbra, Picturesque, GDSC, Hoofers
-- **Attendee** – Google Cloud Day Jaipur, Microsoft Campus Visit Gurgaon
-
----
-
-### 🧘‍♀️ Hobbies & Interests
-
-- 🎨 Designing & digital aesthetics  
-- 📚 Reading about AI ethics and women in tech  
-- 🧘 Mental wellness, yoga, meditation  
-- 🏸 Love to swim and play badminton to release stress
-- ✍️ A poet with a plot twist obsession and a growth mindset  
-- 💻 I code like Walter White and vibe like Emily in Paris!!
-
----
 
 
 
