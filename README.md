@@ -21,20 +21,7 @@ Software Developer · AI/ML Enthusiast  · Coding Educator
   <a href="mailto:riyasirohi250405@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Personal%20Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:riyasirohi23.set@modyuniversity.ac.in" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/College%20Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/riyasirohi7/" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/riyasirohi/" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/geeksforgeeks-111111?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
+  
 
 ---
 
