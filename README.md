@@ -79,7 +79,7 @@ Software Developer · AI/ML Enthusiast  · Coding Educator
     <td>Online Tutor</td>
     <td>TeacherOn</td>
     <td>2024 – Present</td>
-    <td>Python/Java/Math sessions, 40+ students</td>
+    <td>Tutor maths and programming languages to middle and high school students</td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@ Software Developer · AI/ML Enthusiast  · Coding Educator
 ### 🌟 Achievements
 
 - **Semester Topper (CGPA: 9.92/10)**
-- **SheFi Scholar – Cohort 14 (Full Scholarship)**
+- **Flipkart Grid 7.0 - National Semi Finalist**
 - **Smart India Hackathon** (Internal) Runner-Up
 - **DROID 7.0 Mock Recruitment Winner**
 - **DROID 7.0 Entrepreneur's Point, Tech Exhibition Runner Up**
